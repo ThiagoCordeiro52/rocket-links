@@ -1,4 +1,4 @@
-<h1 align="center">Pizza Place</h1>
+<h1 align="center">RocketLinks</h1>
 <!-- <img alt="Proffy" src="./github/banner.png"> -->
 <p align="center">
   <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/ThiagoOliveiraCordeiro/rocket-links?style=for-the-badge">
