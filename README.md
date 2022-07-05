@@ -12,7 +12,7 @@
 <p align="center">
  <a href="#bookmark_tabs-about">About</a> •
 <a href="#hammer-technologies">Technologies</a> •
- <a href="#triangular_ruler-status-do-projeto">Status</a> •
+ <a href="#triangular_ruler-project-status">Status</a> •
 <a href="#computer-deploy">Deploy</a> •
  <a href="#dvd-running-the-project">Running</a> •
  <a href="#boy-author">Author</a> •
